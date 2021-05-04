@@ -1,4 +1,4 @@
-package april21;
+package april21exercise2;
 // This sub class have access to methods and attributes from Bike
 // Should describe a city bike
 public class CityBike extends Bike {

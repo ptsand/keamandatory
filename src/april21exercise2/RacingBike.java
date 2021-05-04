@@ -1,4 +1,4 @@
-package april21;
+package april21exercise2;
 
 public class RacingBike extends Bike {
 

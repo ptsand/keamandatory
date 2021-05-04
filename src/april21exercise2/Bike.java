@@ -1,4 +1,4 @@
-package april21;
+package april21exercise2;
 // Super class implementation (should describe a general bikes attributes and behavior)
 public class Bike {
 
